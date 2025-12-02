@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b1249456e86ce48ad67b879ac6eace, type: 3}
+  m_Name: WindowSettings
+  m_EditorClassIdentifier: 
+  runInBackground: 1
+  fullscreenMode: 3
+  width: 500
+  height: 300
+  usePlayerLog: 1
+  resizable: 0
+  visibleInBackground: 1
+  allowFullscreenSwitch: 0
+  forceSingleInstance: 0
+  useDXGIFlip: 0
+  borderless: 1
+  alwaysOnTop: 1
+  opacity: 1
+  transparent: 0
+  transparentColor: {r: 0, g: 0, b: 0, a: 0}
+  positionPreset: BottomRight
