@@ -100,6 +100,9 @@ Assets/
 
 🖼️ Screenshot
 
+<img width="589" height="323" alt="image" src="https://github.com/user-attachments/assets/8385fee1-823e-43c2-8c48-e7bf2f5f1ffc" />
+
+
 <img width="628" height="345" alt="image" src="https://github.com/user-attachments/assets/1ce647bd-80f0-43e7-bf01-afba2f13c340" />
 
 
